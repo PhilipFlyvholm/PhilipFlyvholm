@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PhilipFlyvholm
-- 👀 I’m interested in Web development and Spigot development
-- 🌱 I’m currently learning to be a master of Java
-- 📫 You can reach me here on Twitter (https://twitter.com/PhilipFlyvholm) and on my community discord (https://discord.gg/XCxsxkn4y4)
+- 👀 I’m interested in Web development and langauge parsing
+- 🌱 I’m currently learning to be a master of NodeJS
+- 📫 You can reach me here on Twitter (https://twitter.com/PhilipFlyvholm)
