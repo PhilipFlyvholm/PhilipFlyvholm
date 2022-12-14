@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PhilipFlyvholm
-- 👀 I’m interested in Web development and langauge parsing
+- 👀 I’m interested in Web development and language parsing
 - 🌱 I’m currently learning to be a master of NodeJS
 - 📫 You can reach me here on Twitter (https://twitter.com/PhilipFlyvholm)
